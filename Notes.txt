@@ -64,4 +64,23 @@ e. ordered, unordered & definition list
 
 ===================================================================================
 
+Lesson 7:
 
+Forms:
+    1) id makes the input as unique
+
+    2) Sample code
+
+    <form action="post">
+        <label for="username">Enter your username</label>
+        <input type="text" id="username" name="username" placeholder="Enter your username">
+    </form>
+
+===================================================================================
+
+Lesson 8:
+
+Inline & Block elements in  HTML
+
+Inline elements are those elements which take the amount of space that is required
+Block elements are those elements whoch take the entire width
